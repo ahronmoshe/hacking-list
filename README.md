@@ -34,4 +34,4 @@ List of hacking game, CTF, war game
 * [https://www.checkmarx.com](https://www.checkmarx.com/2015/04/16/15-vulnerable-sites-to-legally-practice-your-hacking-skills/)
 * [http://www.wechall.net/](http://www.wechall.net/) - the list is in the right 
 * [http://chousensha.github.io/](http://chousensha.github.io/where-to-start/)
-* [https://heimdalsecurity.com]https://heimdalsecurity.com/blog/50-cyber-security-online-courses-you-should-know-about/
+* [https://heimdalsecurity.com](https://heimdalsecurity.com/blog/50-cyber-security-online-courses-you-should-know-about/)
